@@ -1,4 +1,4 @@
-**english** | [русский](https://github.com/svg/svgo/blob/master/README.ru.md)
+**english** | [русский](https://github.com/warsan/svgo/blob/master/README.ru.md)
 - - -
 
 <img src="https://svg.github.io/svgo-logo.svg" width="200" height="200" alt="logo"/>
